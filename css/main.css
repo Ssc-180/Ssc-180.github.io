@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6a25ff;
+  background: #0eff8a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2661,4 +2661,36 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+.site-brand-container {
+  background: #284498;
+}
+.headband {
+  background: #284498;
+}
+.btn {
+  background: #f1fbff;
+  border: 2px solid #4373e6;
+  border-radius: 8px;
+  color: #4373e6;
+}
+.btn:hover {
+  background: #00c3ff;
+  border-color: #00c3ff;
+  color: #fff;
+}
+.menu .menu-item:nth-child(1) a {
+  color: #3b91f7;
+}
+.menu .menu-item:nth-child(2) a {
+  color: #70c040;
+}
+.menu .menu-item:nth-child(3) a {
+  color: #ff6360;
+}
+.menu .menu-item:nth-child(4) a {
+  color: #fbab25;
+}
+.menu .menu-item:nth-child(5) a {
+  color: #cf75dc;
 }
